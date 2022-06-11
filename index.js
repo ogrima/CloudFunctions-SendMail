@@ -9,7 +9,7 @@ const  transporter = nodemailer.createTransport({
         user: "<SEU_EMAIL@DOMINIO.COM>",
         pass: "<EMAIL_PWD>"
       }
-  });
+  }); 
 
 
 // HTTP Cloud Function.
